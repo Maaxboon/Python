@@ -1,7 +1,14 @@
-Data types
-Functions
-Object Oriented Programming
+# Fundamentals
+
 Variables
-Python syntax
-File andling
-Database
+Operators
+Control Flow
+Functions
+Data Types
+Loops
+
+# Advanced
+
+Creating a class
+Create an instance variable
+Using methods
