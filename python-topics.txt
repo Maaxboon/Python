@@ -1,0 +1,7 @@
+Data types
+Functions
+Object Oriented Programming
+Variables
+Python syntax
+File andling
+Database
