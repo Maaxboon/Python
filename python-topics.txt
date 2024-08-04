@@ -12,3 +12,5 @@ Loops
 Creating a class
 Create an instance variable
 Using methods
+
+Data Structures
